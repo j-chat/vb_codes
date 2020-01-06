@@ -2,8 +2,8 @@
 Visual Basic codes that I have created for excel automation
 
 ## Descriptions
-* SelectCopy: select and copies the all non-empty rows after the table headers
-* WeekNumber: resizes the selection to the first column and then inputs a number for that selection
+* SelectCopy: select and copies the all non-empty rows after the table headers (the first row)
+* WeekNumber: resizes the selection to the first column and then asks for a number 
 
 ## Use Cases
 Semi-automate excel reporting: 
